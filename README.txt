@@ -1,5 +1,5 @@
  README!
-👋 Hi, I’m @TheZaf
+👋 Hi, I’m @Manoj Zaf
 - 👀 I’m interested in Frontend wed development...
 - 🌱 I’m currently learning Frontend 
 
